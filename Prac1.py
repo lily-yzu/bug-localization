@@ -78,7 +78,7 @@ def main(num):
     soup = BeautifulSoup(html,"html.parser")
     fillUnivList(soup)
     printUnivList(num)
-
+    printUnivList(num)
 main(10)
 
 
